@@ -61,7 +61,17 @@ DAX: To create metrics needed for insights such as loss ratio , hit ratio , expe
 ``` Claim Severity = divide([Total Claim Amount],CALCULATE(countrows(Claims2),filter(Claims2,Claims2[Claim Status]="Settled"))) ```
 
 #### Gross Written Premium (GWP)
-``` 
+``` GWP = calculate(SUM(Policies1[Premium]),filter(Policies1,Policies1[Proposal Status (Insurer)]="Accepted")) ```
+
+#### Loss Ratio 
+``` Loss Ratio = divide([Total Claim Amount],[GWP]) ```
+
+#### Expense Ratio 
+``` Expense Ratio = divide(SUM(Policies1[Undewriting Expense]),[GWP]) ```
+
+#### Combined Ratio
+``` Combined Ratio = ([Loss Ratio] + [Expense Ratio]) ```
+
 
 
 
