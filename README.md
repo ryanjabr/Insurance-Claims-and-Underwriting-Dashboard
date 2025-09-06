@@ -34,7 +34,9 @@ A Power BI dashboard analyzing insurance KPIs across Claims, Underwriting & Prof
 ## DAX Measures Created (Power BI)
 
 #### Total Claim Amount
-``` Total Claim Amount = calculate(SUM(Claims2[Claim Amount]),filter(Claims2,Claims2[Claim Status]="Settled")) ```
+``` 
+Total Claim Amount = calculate(SUM(Claims2[Claim Amount]),filter(Claims2,Claims2[Claim Status]="Settled"))
+```
 
 #### Claims Settled
 ``` Claims Settled = calculate(countrows(Claims2),filter(Claims2,Claims2[Claim Status]="Settled")) ```
