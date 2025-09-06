@@ -16,3 +16,25 @@ A Power BI dashboard analyzing insurance KPIs across Claims, Underwriting & Prof
 
 - Slicers for filtering: Product, Claim Type, Region, Channel, Year
 
+## Tools & Methods Used
+
+Power BI: Dashboard creation, KPI cards, DAX measures (YoY, ratios).
+Excel: Data preparation.
+DAX: To create metrics needed for insights such as loss ratio , hit ratio , expense ratio etc.
+
+## Data Preparation
+- Removed duplicates, handled missing values.
+- Created extra columns (e.g., Policy End Date, TAT(Days), TAT(Status), Renewal etc)
+- Standardized formats for dates and categories.
+- Added a Date Table to support time intelligence functions (YoY, trends).
+- Cleaned inconsistent entries in Region/Channel/Product columns.
+- Validated totals
+- Used Renewal column (Yes/No) for Renewal Ratio and Churn Rate.
+
+## DAX Measures Created (Power BI)
+
+### Total Claim Amount
+``` Total Claim Amount = calculate(SUM(Claims2[Claim Amount]),filter(Claims2,Claims2[Claim Status]="Settled")) ```
+
+
+
