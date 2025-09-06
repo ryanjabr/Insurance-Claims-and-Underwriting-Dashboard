@@ -39,58 +39,94 @@ Total Claim Amount = calculate(SUM(Claims2[Claim Amount]),filter(Claims2,Claims2
 ```
 
 #### Claims Settled
-``` Claims Settled = calculate(countrows(Claims2),filter(Claims2,Claims2[Claim Status]="Settled")) ```
+``` 
+Claims Settled = calculate(countrows(Claims2),filter(Claims2,Claims2[Claim Status]="Settled"))
+```
 
 #### Claim Settlement Ratio (CSR)
-``` CSR = divide(calculate(countrows(Claims2),filter(Claims2,Claims2[Claim Status]="Settled")),countrows(Claims2)) ```
+``` 
+CSR = divide(calculate(countrows(Claims2),filter(Claims2,Claims2[Claim Status]="Settled")),countrows(Claims2))
+```
 
 #### Claims Rejected
-``` Claims Rejected = calculate(countrows(Claims2),filter(Claims2,Claims2[Claim Status]="Rejected")) ```
+``` 
+Claims Rejected = calculate(countrows(Claims2),filter(Claims2,Claims2[Claim Status]="Rejected"))
+```
 
 #### Claim Rejection Ratio (CRR)
-``` CRR = DIVIDE([Claims Rejected],COUNTROWS(Claims2)) ```
+``` 
+CRR = DIVIDE([Claims Rejected],COUNTROWS(Claims2))
+```
 
 #### Pending Claims
-``` Pending Claims = divide(calculate(countrows(Claims2),filter(Claims2,Claims2[Claim Status]="Pending")),countrows(Claims2)) ```
+``` 
+Pending Claims = divide(calculate(countrows(Claims2),filter(Claims2,Claims2[Claim Status]="Pending")),countrows(Claims2))
+```
 
 #### TAT Compliance
-``` TAT Compliance = divide(calculate(countrows(Claims2),filter(Claims2,Claims2[TAT Status]="Within TAT")),[Claims Settled]) ```
+``` 
+TAT Compliance = divide(calculate(countrows(Claims2),filter(Claims2,Claims2[TAT Status]="Within TAT")),[Claims Settled])
+```
 
 #### Claim Frequency
-``` Claim Frequency = divide(COUNTROWS(Claims2), calculate(COUNTROWS(Policies1),filter(Policies1,Policies1[Proposal Status (Insurer)]="Accepted"))) ```
+``` 
+Claim Frequency = divide(COUNTROWS(Claims2), calculate(COUNTROWS(Policies1),filter(Policies1,Policies1[Proposal Status (Insurer)]="Accepted")))
+```
 
 #### Claim Severity
-``` Claim Severity = divide([Total Claim Amount],CALCULATE(countrows(Claims2),filter(Claims2,Claims2[Claim Status]="Settled"))) ```
+``` 
+Claim Severity = divide([Total Claim Amount],CALCULATE(countrows(Claims2),filter(Claims2,Claims2[Claim Status]="Settled")))
+```
 
 #### Gross Written Premium (GWP)
-``` GWP = calculate(SUM(Policies1[Premium]),filter(Policies1,Policies1[Proposal Status (Insurer)]="Accepted")) ```
+``` 
+GWP = calculate(SUM(Policies1[Premium]),filter(Policies1,Policies1[Proposal Status (Insurer)]="Accepted"))
+```
 
 #### Loss Ratio 
-``` Loss Ratio = divide([Total Claim Amount],[GWP]) ```
+``` 
+Loss Ratio = divide([Total Claim Amount],[GWP])
+```
 
 #### Expense Ratio 
-``` Expense Ratio = divide(SUM(Policies1[Undewriting Expense]),[GWP]) ```
+``` 
+Expense Ratio = divide(SUM(Policies1[Undewriting Expense]),[GWP])
+```
 
 #### Combined Ratio
-``` Combined Ratio = ([Loss Ratio] + [Expense Ratio]) ```
+``` 
+Combined Ratio = ([Loss Ratio] + [Expense Ratio])
+```
 
 #### Hit Ratio
-``` Hit Ratio = divide(calculate(COUNTROWS(Policies1),FILTER(Policies1,Policies1[Proposal Status (Insurer)]="Accepted")),countrows(Policies1)) ```
+``` 
+Hit Ratio = divide(calculate(COUNTROWS(Policies1),FILTER(Policies1,Policies1[Proposal Status (Insurer)]="Accepted")),countrows(Policies1))
+```
 
 #### Profit / Loss
-``` Profit/Loss = [GWP]-[Total Claim Amount]- SUM(Policies1[Undewriting Expense]) ```
+``` 
+Profit/Loss = [GWP]-[Total Claim Amount]- SUM(Policies1[Undewriting Expense])
+```
 
 #### Total Proposals
-``` Total Proposals = COUNTROWS(Policies1) ```
+``` 
+Total Proposals = COUNTROWS(Policies1)
+```
 
 #### Policies Issued
-``` Policies Issued = CALCULATE(COUNTROWS(Policies1),Policies1[Proposal Status (Insurer)] = "Accepted")```
+``` 
+Policies Issued = CALCULATE(COUNTROWS(Policies1),Policies1[Proposal Status (Insurer)] = "Accepted")
+```
 
 #### Renewal Ratio
-```Renewal Ratio = divide(calculate(countrows(Policies1),filter(Policies1,Policies1[Renewal]="Yes" && Policies1[Proposal Status (Insurer)]="Accepted")),calculate(countrows(Policies1),filter(Policies1,Policies1[Proposal Status (Insurer)]="Accepted"))) ```
+```
+Renewal Ratio = divide(calculate(countrows(Policies1),filter(Policies1,Policies1[Renewal]="Yes" && Policies1[Proposal Status (Insurer)]="Accepted")),calculate(countrows(Policies1),filter(Policies1,Policies1[Proposal Status (Insurer)]="Accepted")))
+```
 
 #### Churn Rate
-``` Churn Rate = divide(calculate(countrows(Policies1),filter(policies1,Policies1[Renewal]="No")),CALCULATE(countrows(Policies1),filter(Policies1,Policies1[Proposal Status (Insurer)]="Accepted"))) ```
+``` 
+Churn Rate = divide(calculate(countrows(Policies1),filter(policies1,Policies1[Renewal]="No")),CALCULATE(countrows(Policies1),filter(Policies1,Policies1[Proposal Status (Insurer)]="Accepted")))
+```
 
 #### Year-Over-Year (YOY) Total Claim Amount
 ```
