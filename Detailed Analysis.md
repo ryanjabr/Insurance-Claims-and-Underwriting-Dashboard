@@ -3,7 +3,7 @@
 
 ## Detailed Analysis
 ### Table of Contents
-- [Motor Insurance (2020 - 2022)](#motor-insurance)
+- [Motor Insurance (2020 - 2022)](#motor-insurance-2020---2022)
 - [Health Insurance (2020 - 2022)](#health-insurance)
 
 - [Life Insurance (2020 - 2022)](#life-insurance)
