@@ -360,7 +360,16 @@ Designed 5 pages:
 
 
 ### Renewals & Customer Profile
-![image alt](
+![image alt](https://github.com/ryanjabr/Insurance-Claims-and-Underwriting-Dashboard/blob/f4b725bce5de8d642e9140d8d8e024ebcba5f144/Insurance%20Project_pages-to-jpg-0004.jpg)
 
 
 
+## Insights & Storytelling
+
+### Motor Insurance – Slight Underwriting Loss
+- Claims: Frequency remained stable (~16%), but severity spiked in 2021 and stayed high. CSR fell from 90% to 80%, while CRR increased from 0% to 10%, weakening customer trust.
+
+- Underwriting: From a narrow profit in 2020, Motor slipped into losses in 2021 and 2022. Expense ratios crept upward, pushing combined ratios above 100%.
+
+- Renewals: Renewal ratios slid from 80% → 78% → 76%, with churn worsening. Average tenure peaked in 2021 but dropped sharply in 2022.
+👉 Motor started as a stable performer but is now under strain: rising severity, falling settlement quality, and worsening retention (renewal ratio) make it a weak segment needing corrective action.
