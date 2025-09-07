@@ -341,5 +341,6 @@ Designed 3 pages:
 - Used smart KPI cards with conditional formatting for YoY % changes (+/-).
 - Added slicers for Product, Region, Channel, Claim Type, and Year for interactivity.
 - Applied icons for major KPIs (only where it added clarity).
+  
 
 
