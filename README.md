@@ -333,5 +333,13 @@ IF(ISBLANK(PREV_CHURNRATE),BLANK(),DIVIDE(CURR_CHURNRATE - PREV_CHURNRATE, PREV_
 total underwriting expense = sum(Policies1[Undewriting Expense])
 ```
 
+## Dashboard Development (Power BI)
+Designed 3 pages:
+- Claims Performance – Total Claim Amount, CSR, CRR, TAT Compliance, Claim Frequency, Claim Severity.
+- Underwriting & Profitability – GWP, Loss Ratio, Expense Ratio, Combined Ratio, Hit Ratio, Profit/Loss.
+- Renewals & Customer Profiles – Total Proposals, Policies Issued, Renewal Ratio, Churn Rate, Avg Policy Tenure (yrs).
+- Used smart KPI cards with conditional formatting for YoY % changes (+/-).
+- Added slicers for Product, Region, Channel, Claim Type, and Year for interactivity.
+- Applied icons for major KPIs (only where it added clarity).
 
 
