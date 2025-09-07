@@ -376,3 +376,12 @@ Designed 5 pages:
 👉 Motor started as a stable performer but is now under strain: rising severity, falling settlement quality, and worsening retention (renewal ratio) make it a weak segment needing corrective action.
 
 
+### Health Insurance - Problem Product
+- Claims: Health has consistently carried the highest claim frequency (25–27%) and high claim severity, pressuring loss ratios year after year. CSR fell steadily (80% → 76.9% → 75%), while pending claims and TAT compliance worsened.
+
+- Underwriting: Combined Ratios remained well above 110%, ensuring continuous underwriting losses. Losses grew in 2021 before slightly easing in 2022, but profitability never recovered.
+
+- Renewals: Retention deteriorated from 75% to below 70%, with churn rate increasing from 25% to 31%. Policy tenure peaked in 2021 but dropped sharply in 2022.
+  
+👉 Across three years, Health is clearly the insurer’s most problematic product: high claims frequency, weak claims handling efficiency, and worsening renewals make it unsustainable without corrective action.
+
