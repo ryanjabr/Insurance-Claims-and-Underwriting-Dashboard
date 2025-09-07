@@ -351,4 +351,12 @@ Designed 5 pages:
 ![image alt](https://github.com/ryanjabr/Insurance-Claims-and-Underwriting-Dashboard/blob/653e5a0e11ddd445abe652516df7160426b05a99/Insurance%20Project_pages-to-jpg-0001.jpg)
 
 
+### Claim Performance
+![image alt](https://github.com/ryanjabr/Insurance-Claims-and-Underwriting-Dashboard/blob/dee6cc2e5349e64f8d580b181af864483011ed30/Insurance%20Project_pages-to-jpg-0002.jpg)
+
+
+### Underwriting & Profitability
+![image alt](
+
+
 
