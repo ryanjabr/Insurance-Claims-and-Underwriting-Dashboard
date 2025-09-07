@@ -334,13 +334,17 @@ total underwriting expense = sum(Policies1[Undewriting Expense])
 ```
 
 ## Dashboard Development (Power BI)
-Designed 3 pages:
+Designed 5 pages:
+- Home Page 
 - Claims Performance – Total Claim Amount, CSR, CRR, TAT Compliance, Claim Frequency, Claim Severity.
 - Underwriting & Profitability – GWP, Loss Ratio, Expense Ratio, Combined Ratio, Hit Ratio, Profit/Loss.
 - Renewals & Customer Profiles – Total Proposals, Policies Issued, Renewal Ratio, Churn Rate, Avg Policy Tenure (yrs).
+- Executive Summary
 - Used smart KPI cards with conditional formatting for YoY % changes (+/-).
 - Added slicers for Product, Region, Channel, Claim Type, and Year for interactivity.
 - Applied icons for major KPIs (only where it added clarity).
-  
+
+![image alt](https://github.com/ryanjabr/Insurance-Claims-and-Underwriting-Dashboard/blob/653e5a0e11ddd445abe652516df7160426b05a99/Insurance%20Project_pages-to-jpg-0001.jpg)
+
 
 
