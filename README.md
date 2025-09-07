@@ -376,6 +376,9 @@ Designed 5 pages:
 👉 Motor started as a stable performer but is now under strain: rising severity, falling settlement quality, and worsening retention (renewal ratio) make it a weak segment needing corrective action.
 
 
+
+
+
 ### Health Insurance - Problem Product
 - Claims: Health has consistently carried the highest claim frequency (25–27%) and high claim severity, pressuring loss ratios year after year. CSR fell steadily (80% → 76.9% → 75%), while pending claims and TAT compliance worsened.
 
