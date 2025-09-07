@@ -344,7 +344,8 @@ Designed 5 pages:
 - Added slicers for Product, Region, Channel, Claim Type, and Year for interactivity.
 - Applied icons for major KPIs (only where it added clarity).
 
-- Home Page
+
+#### Home Page
 ![image alt](https://github.com/ryanjabr/Insurance-Claims-and-Underwriting-Dashboard/blob/653e5a0e11ddd445abe652516df7160426b05a99/Insurance%20Project_pages-to-jpg-0001.jpg)
 
 
