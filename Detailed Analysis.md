@@ -24,7 +24,6 @@
 👉 2020 was a relatively balanced year: strong settlement efficiency, controlled losses, and a narrow underwriting profit.
 
 
-
 #### 2021 – Entering Loss Territory
 
 - Claims: Claims rose to $1.1M, with severity increasing to $138.8K, though claim frequency dipped slightly (15.6%). CSR weakened to 80%, while CRR rose to 10%, indicating worsening customer experience in claims.
@@ -34,8 +33,6 @@
 - Renewals & Customers: Renewal ratio slipped to 78.1%, churn rate increased to 21.9%, though average policy tenure edged up to 5.0 years.
 
 👉 2021 was a turning point: higher claims severity, weaker settlement, and higher rejection rates led to Motor slipping into underwriting loss.
-
-
 
 
 #### 2022 – Losses Deepen
@@ -62,10 +59,6 @@
 
 
 
-
-
-
-
 ### Health Insurance (2020 - 2022)
 
 #### 2020 – Weak Profitability, High Claims Pressure
@@ -79,7 +72,6 @@
 👉 2020 showed Health as a weak line, with high claims burden and underwriting losses despite moderate retention.
 
 
-
 #### 2021 – Losses Deepen, Claims Burden Grows
 
 - Claims: Claim amount increased to $1.2M, with claim frequency rising to 26%. CSR slipped further to 76.9%, CRR improved slightly to 7.7%, but pending claims increased to 15.4%. Claim severity was $123.6K. TAT compliance weakened to 80%.
@@ -91,7 +83,6 @@
 👉 2021 reinforced Health’s status as a problem product: growing claims and worsening renewal rates deepened the underwriting loss.
 
 
-
 #### 2022 – Continued Struggles, No Recovery
 
 - Claims: Claims returned to $1.0M, but claim frequency rose to 26.7%. CSR slipped further to 75%, CRR ticked up to 8.3%, and pending claims rose to 16.7%. Claim severity moderated to $112.8K, but overall performance stayed weak. TAT compliance dropped to 77.8%.
@@ -101,7 +92,6 @@
 - Renewals & Customers: Renewal ratio dropped to 68.9%, churn worsened to 31.1%. Average policy tenure shortened to 6.0 years, reflecting reduced loyalty.
   
 👉 2022 confirmed Health as the weakest product line: persistently high claims, poor settlement efficiency, and deteriorating customer retention.
-
 
 
 #### 3-Year Portfolio Story (Health)
