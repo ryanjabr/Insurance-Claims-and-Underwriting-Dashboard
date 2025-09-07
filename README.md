@@ -31,6 +31,20 @@ A Power BI dashboard analyzing insurance KPIs across Claims, Underwriting & Prof
 - Validated totals
 - Used Renewal column (Yes/No) for Renewal Ratio and Churn Rate.
 
+## . Data Modeling (Power BI)
+
+- Built a separate Date Table covering 01-01-2020 to 31-12-2022.
+
+- Marked it as the official Date Table and established relationships with fact tables.
+
+#### Relationships created:
+
+- DateTable[Date] ↔ Policies[Policy Start Date] (1-to-many)
+
+- Customers[CustomerID] ↔ Policies[CustomerID] (1-to-many)
+  
+- Policies[PolicyID] ↔ Claims[PolicyID] (1-to-many)
+
 ## DAX Measures Created (Power BI)
 
 #### Total Claims 
