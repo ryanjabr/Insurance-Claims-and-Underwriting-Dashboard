@@ -10,7 +10,7 @@ A Power BI dashboard analyzing insurance KPIs across Claims, Underwriting & Prof
 - Claims Performance → Total Claim Amount, CSR, CRR, Pending Claims, TAT Compliance, Claim Frequency, Claim Severity.
 - Underwriting & Profitability → GWP, Loss Ratio, Expense Ratio, Combined Ratio, Hit Ratio, Underwriting Profit/Loss.
 - Renewals & Customer Profiles → Total Proposals, Policies Issued, Hit Ratio, Renewal Ratio, Churn Rate, Avg. Policy Tenure.
-- Slicers for filtering: Product, Claim Type, Region, Channel, Year
+- Slicers for filtering: Product, Claim Type, Region, Channel, Year.
 
 ## Tools & Methods Used
 - Power BI: Dashboard creation, KPI cards, DAX measures (YoY, ratios).
@@ -18,7 +18,7 @@ A Power BI dashboard analyzing insurance KPIs across Claims, Underwriting & Prof
 - DAX: To create metrics needed for insights such as loss ratio , hit ratio , expense ratio etc.
 
 ## Data Collection & Preparation
-- Imported Excel dataset with Policies, Claims, Customers.
+- Imported Excel dataset with Policies, Claims, Customers as sheets.
 - Removed duplicates, handled missing values.
 - Created extra columns (e.g., Policy End Date, TAT(Days), TAT(Status), Renewal etc).
 - Standardized formats for dates and categories.
@@ -32,9 +32,9 @@ A Power BI dashboard analyzing insurance KPIs across Claims, Underwriting & Prof
 - Marked it as the official Date Table and established relationships with fact tables.
 
 #### Relationships created:
-- DateTable[Date] ↔ Policies[Policy Start Date] (1-to-many)
-- Customers[CustomerID] ↔ Policies[CustomerID] (1-to-many) 
-- Policies[PolicyID] ↔ Claims[PolicyID] (1-to-many)
+- DateTable[Date] ↔ Policies[Policy Start Date] (1-to-many).
+- Customers[CustomerID] ↔ Policies[CustomerID] (1-to-many).
+- Policies[PolicyID] ↔ Claims[PolicyID] (1-to-many).
 
 ## DAX Measures Created (Power BI)
 #### Total Claims 
