@@ -58,7 +58,7 @@
 👉 Motor started as a stable performer but is now under strain: rising severity, falling settlement quality, and worsening retention (renewal ratio) make it a weak segment needing corrective action.
 
 
-
+------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Health Insurance (2020 - 2022)
 
@@ -104,3 +104,7 @@
 - Renewals: Retention deteriorated from 75% to below 70%, with churn rate worsening from 25% to 31%. Policy tenure peaked in 2021 but dropped sharply in 2022.
   
 👉 Across three years, Health is clearly the insurer’s most problematic product: high claims frequency, weak claims handling efficiency, and worsening renewals make it unsustainable without corrective action.
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+### Life Insurance (2020 - 2022)
