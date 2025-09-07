@@ -29,9 +29,9 @@
 
 - Claims: Claims rose to $1.1M, with severity increasing to $138.8K, though claim frequency dipped slightly (15.6%). CSR weakened to 80%, while CRR rose to 10%, indicating worsening customer experience in claims.
 
-Underwriting & Profitability: With GWP of $1.5M, the Loss Ratio (75.1%) and Expense Ratio (25.5%) pushed the Combined Ratio above 100% (100.6%), resulting in an underwriting loss of $9.5K.
+- Underwriting & Profitability: With GWP of $1.5M, the Loss Ratio (75.1%) and Expense Ratio (25.5%) pushed the Combined Ratio above 100% (100.6%), resulting in an underwriting loss of $9.5K.
 
-Renewals & Customers: Renewal ratio slipped to 78.1%, churn rate increased to 21.9%, though average policy tenure edged up to 5.0 years.
+- Renewals & Customers: Renewal ratio slipped to 78.1%, churn rate increased to 21.9%, though average policy tenure edged up to 5.0 years.
 
 👉 2021 was a turning point: higher claims severity, weaker settlement, and higher rejection rates led to Motor slipping into underwriting loss.
 
