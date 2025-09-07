@@ -24,6 +24,7 @@
 👉 2020 was a relatively balanced year: strong settlement efficiency, controlled losses, and a narrow underwriting profit.
 
 
+
 #### 2021 – Entering Loss Territory
 
 - Claims: Claims rose to $1.1M, with severity increasing to $138.8K, though claim frequency dipped slightly (15.6%). CSR weakened to 80%, while CRR rose to 10%, indicating worsening customer experience in claims.
@@ -33,6 +34,8 @@ Underwriting & Profitability: With GWP of $1.5M, the Loss Ratio (75.1%) and Expe
 Renewals & Customers: Renewal ratio slipped to 78.1%, churn rate increased to 21.9%, though average policy tenure edged up to 5.0 years.
 
 👉 2021 was a turning point: higher claims severity, weaker settlement, and higher rejection rates led to Motor slipping into underwriting loss.
+
+
 
 
 #### 2022 – Losses Deepen
