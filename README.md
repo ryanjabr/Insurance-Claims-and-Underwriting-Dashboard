@@ -371,6 +371,6 @@ Designed 5 pages:
 
 - Underwriting: From a narrow profit in 2020, Motor slipped into losses in 2021 and 2022. Expense ratios crept upward, pushing combined ratios above 100%.
 
-- Renewals: Renewal ratios slid from 80% → 78% → 76%, with churn worsening. Average tenure peaked in 2021 but dropped sharply in 2022.
+- Renewals: Renewal ratios slid from 80% → 78% → 76%, with churn rate worsening. Average tenure peaked in 2021 but dropped sharply in 2022.
 
 👉 Motor started as a stable performer but is now under strain: rising severity, falling settlement quality, and worsening retention (renewal ratio) make it a weak segment needing corrective action.
