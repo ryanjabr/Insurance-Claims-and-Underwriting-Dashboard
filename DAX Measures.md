@@ -216,7 +216,7 @@ CALCULATE (
 )
 ```
 
-### YOY Loss Ratio 
+#### YOY Loss Ratio 
 ```
 YOY Loss Ratio = divide([Current loss ratio] - [Prev Loss Ratio],[Prev Loss Ratio],0)
 ```
