@@ -389,4 +389,11 @@ Designed 5 pages:
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Life Insurance - Best Performing Product
+- Claims: Life consistently reported very low claim frequency (6.7% → 6.1% → 5.6%), offsetting rising claim severity. CSR improved steadily from 90% to 92.6%, while CRR fell from 5% to 3.7%. TAT compliance remained the best among products (94–96%).
+
+- Underwriting: Across three years, Life maintained the strongest profitability with Combined Ratios of 70–73%, driven by controlled Loss and Expense Ratios. Profits grew from $3.7M to $7.7M.
+
+- Renewals: Retention remained exceptional (93–95%), churn rate consistently low (5–7%), and average tenure stable at ~9 years.
+  
+👉 Life is the insurer’s strongest and most reliable product: profitable, efficient, and highly stable, providing the backbone of portfolio performance.
 
