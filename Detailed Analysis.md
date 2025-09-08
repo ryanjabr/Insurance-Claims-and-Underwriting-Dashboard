@@ -142,7 +142,7 @@
 👉 Life solidified its position as the best-performing product, growing profitably with unmatched efficiency and customer loyalty.
 
 
-3-Year Portfolio Story (Life)
+#### 3-Year Portfolio Story (Life)
 
 - Claims: Life consistently reported very low claim frequency (6.7% → 6.1% → 5.6%), offsetting rising claim severity. CSR improved steadily from 90% to 92.6%, while CRR fell from 5% to 3.7%. TAT compliance remained the best among products (94–96%).
 
