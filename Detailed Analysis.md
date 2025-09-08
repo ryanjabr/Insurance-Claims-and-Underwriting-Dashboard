@@ -108,3 +108,46 @@
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Life Insurance (2020 - 2022)
+
+#### 2020 – Strong Profitability and Retention
+
+- Claims: Total claim amount was $7.9M with a low claim frequency of 6.7% and severity of $438.4K. CSR stood strong at 90%, CRR at 5%, and pending claims were only 5%. TAT compliance was excellent at 94.4%.
+
+- Underwriting & Profitability: With GWP at $13.5M, the Loss Ratio (58.3%) and Expense Ratio (14.2%) drove a very favorable Combined Ratio of 72.5%, resulting in a healthy underwriting profit of $3.7M.
+
+- Renewals & Customers: Renewal ratio was high at 93.3% (churn 6.7%) with an average policy tenure of 9.2 years.
+  
+👉 Life was the strongest product in 2020, combining low claims burden, excellent operational efficiency, and outstanding retention.
+
+
+#### 2021 – Profitability Improves Further
+
+- Claims: Total claim amount rose to $10.8M, but claim frequency dipped to 6.1%, showing improved portfolio stability. Claim severity increased to $513.4K. CSR improved slightly to 91.3%, CRR declined to 4.3%, and pending claims dropped in line. TAT compliance rose to 95.2%.
+
+- Underwriting & Profitability: With GWP at $18.9M, the Loss Ratio improved to 57% and Expense Ratio fell to 13.5%, keeping the Combined Ratio at 70.5%. Underwriting profit surged to $5.6M.
+
+- Renewals & Customers: Renewal ratio rose to 94.1% (churn 5.9%). Average policy tenure remained strong at 9.1 years.
+  
+👉 Life’s profitability strengthened further in 2021, showing efficiency gains and stable customer loyalty.
+
+
+#### 2022 – Continued Growth and Leadership
+
+- Claims: Total claims rose to $14.6M, though claim frequency dropped again to 5.6%, confirming favorable risk profile. Claim severity increased to $582K. CSR improved to 92.6%, CRR fell further to 3.7%, and TAT compliance hit 96%.
+
+- Underwriting & Profitability: With GWP soaring to $25.5M, the Loss Ratio remained low (57%), Expense Ratio fell to 13%, and Combined Ratio held at 70%. Profit reached a record $7.7M.
+
+- Renewals & Customers: Renewal ratio rose to 95%, with churn just 5%. Average policy tenure remained steady at 9.2 years.
+  
+👉 Life solidified its position as the best-performing product, growing profitably with unmatched efficiency and customer loyalty.
+
+
+3-Year Portfolio Story (Life)
+
+- Claims: Life consistently reported very low claim frequency (6.7% → 6.1% → 5.6%), offsetting rising claim severity. CSR improved steadily from 90% to 92.6%, while CRR fell from 5% to 3.7%. TAT compliance remained the best among products (94–96%).
+
+- Underwriting: Across three years, Life maintained the strongest profitability with Combined Ratios of 70–73%, driven by controlled Loss and Expense Ratios. Profits grew from $3.7M to $7.7M.
+
+- Renewals: Retention remained exceptional (93–95%), churn rate consistently low (5–7%), and average tenure stable at ~9 years.
+  
+👉 Life is the insurer’s strongest and most reliable product: profitable, efficient, and highly stable, providing the backbone of portfolio performance.
