@@ -103,7 +103,7 @@ A Power BI dashboard analyzing insurance KPIs across Claims, Underwriting & Prof
   
 👉 Life is the insurer’s strongest and most reliable product: profitable, efficient, and highly stable, providing the backbone of portfolio performance.
 
-- For detailed year-by-year analysis, see 
+- For detailed year-by-year analysis, see [Detailed Analysis - Life](Detailed%20Analysis.md
 
 
 
