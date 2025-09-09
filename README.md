@@ -77,7 +77,7 @@ A Power BI dashboard analyzing insurance KPIs across Claims, Underwriting & Prof
 
 👉 Motor started as a stable performer but is now under strain: rising severity, falling settlement quality, and worsening retention (renewal ratio) make it a weak segment needing corrective action.
 
-- For detailed year-by-year analysis, see [Detailed Analysis](Detailed%20Analysis.md)
+- For detailed year-by-year analysis, see [Detailed Analysis - Motor](Detailed%20Analysis.md#motor-insurance-2020---2022)
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
