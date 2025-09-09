@@ -62,7 +62,7 @@ A Power BI dashboard analyzing insurance KPIs across Claims, Underwriting & Prof
 
 
 ### Renewals & Customer Profile
-![image alt](https://github.com/ryanjabr/Insurance-Claims-and-Underwriting-Dashboard/blob/f7409ec596642b5dcd65f9fb44da1dcb95de37a0/Insurance%20Project_page-0004.jpg)
+![image alt](https://github.com/ryanjabr/Insurance-Claims-and-Underwriting-Dashboard/blob/583badf8ab36e62828cec959c65b57edeb7a92a1/Insurance%20Project_page-0004.jpg)
 
 
 
