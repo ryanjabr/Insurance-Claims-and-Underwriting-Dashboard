@@ -74,6 +74,7 @@ A Power BI dashboard analyzing insurance KPIs across Claims, Underwriting & Prof
 ##### **Note: All financial figures are presented in USD.**
 
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Insights & Storytelling
 
 ### Motor Insurance – Slight Underwriting Loss
