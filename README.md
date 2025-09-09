@@ -90,7 +90,7 @@ A Power BI dashboard analyzing insurance KPIs across Claims, Underwriting & Prof
   
 👉 Across three years, Health is clearly the insurer’s most problematic product: high claims frequency, weak claims handling efficiency, and worsening renewals make it unsustainable without corrective action. 
 
-- For detailed year-by-year analysis, see 
+- For detailed year-by-year analysis, see [Detailed Analysis - Health](Detailed%20Analysis.md#health-insurance-2020---2022)
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
