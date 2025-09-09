@@ -65,6 +65,9 @@ A Power BI dashboard analyzing insurance KPIs across Claims, Underwriting & Prof
 ![image alt](https://github.com/ryanjabr/Insurance-Claims-and-Underwriting-Dashboard/blob/583badf8ab36e62828cec959c65b57edeb7a92a1/Insurance%20Project_page-0004.jpg)
 
 
+### Executive Summary
+![image_alt](https://github.com/ryanjabr/Insurance-Claims-and-Underwriting-Dashboard/blob/8209044ee9a86efd7fc3796711b2ccdab80859c9/Insurance%20Project_page-0005.jpg)
+
 
 ## Insights & Storytelling
 
