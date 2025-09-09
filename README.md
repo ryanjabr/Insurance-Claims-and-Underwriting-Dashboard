@@ -8,7 +8,7 @@ A Power BI dashboard analyzing insurance KPIs across Claims, Underwriting & Prof
 
 ## Dataset
 - The dataset used in this project is available here:
-[Dataset](data/insurance_data.xlsx)
+[Dataset](data/Insurance_Dashboard_Dataset.xlsx)
 
 ## Dashboard Features
 - Claims Performance → Total Claim Amount, CSR, CRR, Pending Claims, TAT Compliance, Claim Frequency, Claim Severity.
