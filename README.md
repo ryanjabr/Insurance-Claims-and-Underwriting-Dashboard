@@ -10,6 +10,11 @@ A Power BI dashboard analyzing insurance KPIs across Claims, Underwriting & Prof
 - The dataset used in this project is available here:
 [Dataset](data/Insurance_Dashboard_Dataset.xlsx)
 
+### Note on Dataset
+- The dataset used in this project is synthetic and created for learning purposes.
+- Any resemblance to real companies, customers, or policies is purely coincidental.
+- The goal of this project is to demonstrate Power BI, DAX, and insurance analytics skills, not to represent any actual organization.
+
 ## Dashboard Features
 - Claims Performance → Total Claim Amount, CSR, CRR, Pending Claims, TAT Compliance, Claim Frequency, Claim Severity.
 - Underwriting & Profitability → GWP, Loss Ratio, Expense Ratio, Combined Ratio, Hit Ratio, Underwriting Profit/Loss.
